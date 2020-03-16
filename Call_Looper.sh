@@ -1,6 +1,15 @@
+
+echo "  ▄▄██████▄▄   | Call-Looper " | lolcat -s 100000
+echo "▄██▀▄█▄▄█▄▀██▄ | Version 1.0" | lolcat -s 100000
+echo "▀▀▀▄██▀▀██▄▀▀▀ | Github/khansaad1275" | lolcat -s 100000
+echo " ▄███─██─███▄  | " | lolcat -s 100000
+echo " █████▄▄█████  " | lolcat -s 100000
+echo "" | lolcat -s 100000
+echo "-------------------------------" | lolcat
+echo "[Website: www.LearnTermux.tech]" | lolcat -as 50
+echo "-------------------------------" | lolcat 
+
 i=1
-
-
 echo -ne  "Enter Phone-Number of Victim: "
 read phonenumber
 echo -ne "Number of calls : "
