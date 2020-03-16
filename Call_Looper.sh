@@ -1,4 +1,4 @@
-
+clear
 echo "  ▄▄██████▄▄   | Call-Looper " | lolcat -s 100000
 echo "▄██▀▄█▄▄█▄▀██▄ | Version 1.0" | lolcat -s 100000
 echo "▀▀▀▄██▀▀██▄▀▀▀ | www.LearnTermux.tech" | lolcat -s 100000
@@ -10,7 +10,7 @@ echo "-------------------------------------" | lolcat
 
 i=1
 echo "-------------------------------" | lolcat
-echo -ne  "Enter Phone-Number of Victim --> "
+echo -ne  "Phone-Number of Victim --> "
 read phonenumber
 echo "-------------------------------" | lolcat
 echo -ne "Number of calls --> "
