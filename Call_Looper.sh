@@ -11,16 +11,14 @@ echo "-------------------------------------" | lolcat
 i=1
 echo "-------------------------------" | lolcat
 echo -ne  "Enter Phone-Number of Victim --> "
-echo "-------------------------------" | lolcat
 read phonenumber
 echo "-------------------------------" | lolcat
 echo -ne "Number of calls --> "
-echo "-------------------------------" | lolcat
 read num
 echo "-------------------------------" | lolcat
 echo -ne  "Dealy in sec [30 recommended] --> "
-echo "-------------------------------" | lolcat
 read sleep
+echo "-------------------------------" | lolcat
 
 until [ $i -gt $num ]
 
