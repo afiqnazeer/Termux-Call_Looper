@@ -27,11 +27,12 @@ do
   echo "[+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
-  until [ $sleep -lt 0 ]
+  $sleep = j
+  until [ $j -lt 0 ]
         do
-        echo -ne "[-]Next Call in -->" $sleep\\r
+        echo -ne "[-]Next Call in -->" $j\\r
         sleep 1
-        ((sleep=sleep-1))
+        ((j=j-1))
         done
 echo "N"
 done
