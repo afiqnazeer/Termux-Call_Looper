@@ -17,7 +17,7 @@ echo -ne "Number of calls --> "
 read num
 echo "-------------------------------" | lolcat
 echo -ne  "Dealy in sec [30 recommended] --> "
-read sleep
+read dealy
 echo "-------------------------------" | lolcat
 
 until [ $i -gt $num ]
@@ -27,7 +27,7 @@ do
   echo "[+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
-  sleep = $j
+  dealy = $j
   until [ $j -lt 0 ]
         do
         echo -ne "[-]Next Call in -->" $j\\r
