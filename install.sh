@@ -9,3 +9,5 @@ pkg install termux-api -y
 echo -e "\e[032m Please Allow the Access..."
 termux-telephony-call 123
 
+echo -e "\e[032m Installation Complete!"
+
