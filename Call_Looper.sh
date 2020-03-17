@@ -25,13 +25,13 @@ until [ $i -gt $num ]
 
 do
   echo " "
-  echo -ne "\e[031m [+]Number of Call Sent -->" $i
+  echo -e "\e[031m [+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
   j=$dealy
   until [ $j -lt 0 ]
         do
-        echo -ne "\e[032m [-]Next Call in -->" $j\\r 
+        echo -e "\e[032m [-]Next Call in -->" $j\\r 
         sleep 1
         ((j=j-1))
         done
