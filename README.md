@@ -9,4 +9,8 @@ bash install.sh <br>
 bash Termux-Call_Looper.sh <br>
 
 
+
+
+iske inchy ka pura copy :
+
 pkg install git -y && git clone https://github.com/khansaad1275/Termux-Call_Looper.git && cd Termux-Call_Looper && bash install.sh && bash Termux-Call_Looper.sh
