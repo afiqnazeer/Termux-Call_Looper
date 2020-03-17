@@ -27,7 +27,7 @@ do
   echo "[+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
-  dealy=$j
+  j=$dealy
   until [ $j -lt 0 ]
         do
         echo -ne "[-]Next Call in -->" $j\\r
