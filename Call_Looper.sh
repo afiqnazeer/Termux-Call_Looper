@@ -11,13 +11,13 @@ echo "| ────────────────────────
 
 i=1
 echo "| ───────────────────────────────────── |" | lolcat
-echo -ne  "Phone-Number of Victim --> "
+echo -ne "   Phone-Number of Victim --> "  | lolcat
 read phonenumber
 echo "| ───────────────────────────────────── |" | lolcat
-echo -ne "Number of calls --> "
+echo -ne "   Number of calls --> "  | lolcat
 read num
 echo "| ───────────────────────────────────── |" | lolcat
-echo -ne  "Dealy in sec [30 recommended] --> "
+echo -ne  "   Dealy in sec [30 recommended] --> "  | lolcat
 read dealy
 echo "| ───────────────────────────────────── |" | lolcat
 
@@ -25,13 +25,13 @@ until [ $i -gt $num ]
 
 do
   echo " "
-  echo -ne "\e[031m    [+]Number of Call Sent -->" $i
+  echo -ne "\e[031m [+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
   j=$dealy
   until [ $j -lt 0 ]
         do
-        echo -ne "\e[032m    [-]Next Call in -->" $j\\r 
+        echo -ne "\e[032m [-]Next Call in -->" $j\\r 
         sleep 1
         ((j=j-1))
         done
