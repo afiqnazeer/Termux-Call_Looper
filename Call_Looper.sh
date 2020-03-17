@@ -35,5 +35,5 @@ do
         sleep 1
         ((j=j-1))
         done
-echo "N"
+#echo "N"
 done
