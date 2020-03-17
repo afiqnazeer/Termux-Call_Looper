@@ -1,24 +1,25 @@
 clear
-echo "  ▄▄██████▄▄   | Call-Looper " | lolcat -s 100000
-echo "▄██▀▄█▄▄█▄▀██▄ | Version 1.0" | lolcat -s 100000
-echo "▀▀▀▄██▀▀██▄▀▀▀ | www.LearnTermux.tech" | lolcat -s 100000
-echo " ▄███─██─███▄  | Github:khansaad1275" | lolcat -s 100000
-echo " █████▄▄█████  | Insta: skhan_official" | lolcat -s 100000
-echo "-------------------------------------" | lolcat
-echo "---[Website: www.LearnTermux.tech]---" | lolcat -as 50
-echo "-------------------------------------" | lolcat 
+echo "───────────────────────────────────── |" | lolcat
+echo "  ▄▄██████▄▄   | Call-Looper          |" | lolcat -s 100000
+echo "▄██▀▄█▄▄█▄▀██▄ | Version 1.0          |" | lolcat -s 100000
+echo "▀▀▀▄██▀▀██▄▀▀▀ | www.LearnTermux.tech |" | lolcat -s 100000
+echo " ▄███─██─███▄  | Github:khansaad1275  |" | lolcat -s 100000
+echo " █████▄▄█████  | Insta: skhan_official|" | lolcat -s 100000
+echo "───────────────────────────────────── |" | lolcat
+echo "---[ Website: www.LearnTermux.tech]-- |" | lolcat -as 50
+echo "───────────────────────────────────── |" | lolcat 
 
 i=1
-echo "-------------------------------" | lolcat
+echo "───────────────────────────────────── |" | lolcat
 echo -ne  "Phone-Number of Victim --> "
 read phonenumber
-echo "-------------------------------" | lolcat
+echo "───────────────────────────────────── |" | lolcat
 echo -ne "Number of calls --> "
 read num
-echo "-------------------------------" | lolcat
+echo "───────────────────────────────────── |" | lolcat
 echo -ne  "Dealy in sec [30 recommended] --> "
 read dealy
-echo "-------------------------------" | lolcat
+echo "───────────────────────────────────── |" | lolcat
 
 until [ $i -gt $num ]
 
