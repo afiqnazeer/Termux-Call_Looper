@@ -3,7 +3,7 @@ This Script will allow you to call 100s Of Time from Your phone To a Phone numbe
 
 
 dekho aayurshi ye ji nichy jo nichy ka code hain na line by line paste karo termux me
-# Installation :
+# Installcalling
 pkg install git -y <br>
 git clone https://github.com/khansaad1275/Termux-Call_Looper.git <br>
 cd Termux-Call_Looper <br>
