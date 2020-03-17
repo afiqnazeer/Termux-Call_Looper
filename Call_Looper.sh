@@ -25,15 +25,24 @@ until [ $i -gt $num ]
 
 do
   echo " "
-  echo "[+]Number of Call Sent -->" $i
+  echo -e "\e[032m [+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
   j=$dealy
   until [ $j -lt 0 ]
         do
-        echo -ne "[-]Next Call in -->" $j\\r
+        echo -e "\e[032m [-]Next Call in -->" $j\\r 
         sleep 1
         ((j=j-1))
         done
 #echo "N"
 done
+echo "▄▄▄▄·  ▄· ▄▌▄▄▄ .      " | lolcat -s 10000
+echo "▐█ ▀█▪▐█▪██▌▀▄.▀·      " | lolcat -s 10000
+echo "▐█▀▀█▄▐█▌▐█▪▐▀▀▪▄      " | lolcat -s 10000
+echo "██▄▪▐█ ▐█▀·.▐█▄▄▌      " | lolcat -s 10000
+echo "·▀▀▀▀   ▀ •  ▀▀▀  ▀  ▀ " | lolcat -s 10000
+echo "Thanks For Using Call-Looper™"
+echo "Visit : www.LearnTermux.tech"
+echo "For more Projects Like this. "
+
