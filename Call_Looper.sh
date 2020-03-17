@@ -25,24 +25,26 @@ until [ $i -gt $num ]
 
 do
   echo " "
-  echo -e "\e[032m [+]Number of Call Sent -->" $i
+  echo -ne "\e[031m    [+]Number of Call Sent -->" $i
   ((i=i+1))
   termux-telephony-call $phonenumber
   j=$dealy
   until [ $j -lt 0 ]
         do
-        echo -e "\e[032m [-]Next Call in -->" $j\\r 
+        echo -ne "\e[032m    [-]Next Call in -->" $j\\r 
         sleep 1
         ((j=j-1))
         done
 #echo "N"
 done
-echo "▄▄▄▄·  ▄· ▄▌▄▄▄ .      " | lolcat -s 10000
-echo "▐█ ▀█▪▐█▪██▌▀▄.▀·      " | lolcat -s 10000
-echo "▐█▀▀█▄▐█▌▐█▪▐▀▀▪▄      " | lolcat -s 10000
-echo "██▄▪▐█ ▐█▀·.▐█▄▄▌      " | lolcat -s 10000
-echo "·▀▀▀▀   ▀ •  ▀▀▀  ▀  ▀ " | lolcat -s 10000
-echo "Thanks For Using Call-Looper™"
-echo "Visit : www.LearnTermux.tech"
-echo "For more Projects Like this. "
+echo "| ───────────────────────────────────── |" | lolcat
+echo "          ▄▄▄▄·  ▄· ▄▌▄▄▄ .      " | lolcat -s 10000
+echo "          ▐█ ▀█▪▐█▪██▌▀▄.▀·      " | lolcat -s 10000
+echo "          ▐█▀▀█▄▐█▌▐█▪▐▀▀▪▄      " | lolcat -s 10000
+echo "          ██▄▪▐█ ▐█▀·.▐█▄▄▌      " | lolcat -s 10000
+echo "          ·▀▀▀▀   ▀ •  ▀▀▀  ▀  ▀ " | lolcat -s 10000
+echo "    Thanks For Using Call-Looper™" | lolcat -s 10000
+echo "     Visit : www.LearnTermux.tech" | lolcat -s 10000
+echo "     For more Projects Like this. " | lolcat -s 10000
+echo "| ───────────────────────────────────── |" | lolcat
 
