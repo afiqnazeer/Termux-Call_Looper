@@ -1,13 +1,14 @@
 # Termux-Call_Looper📞🔁:
 This Script will allow you to call 100s Of Time from Your phone To a Phone number.You just have to Enter the Phone-Number and This script will call that person again and again.
+<br><br><br>
 
 
-Authorman_technologist: https://github.com/khansaad1275
+Author👨‍💻: https://github.com/khansaad1275 <br>
 
-Websiteearth_americas: www.Learntermux.tech
+Website🌎: www.Learntermux.tech <br>
 
-Instagram : https://www.instagram.com/skhan_official/ 
-
+Instagram : https://www.instagram.com/skhan_official/ <br>
+<br>
 
 # install📲:
 pkg install git -y <br>
