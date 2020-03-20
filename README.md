@@ -22,3 +22,4 @@ bash install.sh <br>
 bash Termux-Call_Looper.sh <br>
 
 
+💀<h3>Don't copy this code without give me the credits, nerd!</h3> <br>
