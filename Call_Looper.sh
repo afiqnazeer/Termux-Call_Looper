@@ -8,7 +8,7 @@ echo "|  █████▄▄█████  | Insta: skhan_official|" | lolca
 echo "| ───────────────────────────────────── |" | lolcat
 echo "| ---[ Website: www.LearnTermux.tech]-- |" | lolcat -as 50
 echo "| ───────────────────────────────────── |" | lolcat 
-
+echo " "
 i=1
 echo "| ───────────────────────────────────── |" | lolcat
 echo -ne "   Phone-Number of Victim --> "  | lolcat
