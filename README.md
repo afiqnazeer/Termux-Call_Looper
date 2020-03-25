@@ -11,15 +11,16 @@ Instagram : https://www.instagram.com/skhan_official/ <br>
 <br>
 
 # install📲:
-pkg install git -y <br>
 
-git clone https://github.com/khansaad1275/Termux-Call_Looper.git <br>
+```pkg install git -y``` <br>
 
-cd Termux-Call_Looper <br>
+```git clone https://github.com/khansaad1275/Termux-Call_Looper.git``` <br>
 
-bash install.sh <br>
+```cd Termux-Call_Looper``` <br>
 
-bash Termux-Call_Looper.sh <br>
+```bash install.sh``` <br>
+
+```bash Termux-Call_Looper.sh``` <br>
 
 
-💀<h3>Don't copy this code without give me the credits, nerd!</h3> <br>
+<h3>💀Don't copy this code without give me the credits, nerd!</h3> <br>
