@@ -1,5 +1,5 @@
 # Termux-Call_Looper📞🔁:
-This Script will allow you to call 100s Of Time from Your phone To a Phone number.You just have to Enter the Phone-Number and This script will call that person again and again.If you are Searching for Call bombing then you can read this blog [https://www.learntermux.tech/2020/01/unlimited-sms-bombing-call-bombing-using-termux-2020.html">Sms Bombing in Termux]
+This Script will allow you to call 100s Of Time from Your phone To a Phone number.You just have to Enter the Phone-Number and This script will call that person again and again.If you are Searching for Call bombing then you can read this blog [https://www.learntermux.tech/2020/01/unlimited-sms-bombing-call-bombing-using-termux-2020.html]
 <br><br><br>
 
 
