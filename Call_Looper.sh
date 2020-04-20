@@ -1,12 +1,12 @@
 clear
 echo "| ───────────────────────────────────── |" | lolcat
-echo "|   ▄▄██████▄▄   | Call-Looper          |" | lolcat -s 100000
+echo "|   ▄▄██████▄▄   | Call-Looper By Afiq      |" | lolcat -s 100000
 echo "| ▄██▀▄█▄▄█▄▀██▄ | Version 1.0          |" | lolcat -s 100000
-echo "| ▀▀▀▄██▀▀██▄▀▀▀ | www.LearnTermux.tech |" | lolcat -s 100000
-echo "|  ▄███─██─███▄  | Github:khansaad1275  |" | lolcat -s 100000
-echo "|  █████▄▄█████  | Insta: skhan_official|" | lolcat -s 100000
+echo "| ▀▀▀▄██▀▀██▄▀▀▀                        |" | lolcat -s 100000
+echo "|  ▄███─██─███▄  | Github:afiqnazeer.   |" | lolcat -s 100000
+echo "|  █████▄▄█████  | Insta: _a_a_f_u_officials|" | lolcat -s 100000
 echo "| ───────────────────────────────────── |" | lolcat
-echo "| ---[ Website: www.LearnTermux.tech]-- |" | lolcat -as 50
+echo "| A Great Love From Afiq To You.        |" | lolcat -as 50
 echo "| ───────────────────────────────────── |" | lolcat 
 echo " "
 i=1
@@ -44,7 +44,7 @@ echo "          ▐█▀▀█▄▐█▌▐█▪▐▀▀▪▄      " | lol
 echo "          ██▄▪▐█ ▐█▀·.▐█▄▄▌      " | lolcat -s 10000
 echo "          ·▀▀▀▀   ▀ •  ▀▀▀  ▀  ▀ " | lolcat -s 10000
 echo "    Thanks For Using Call-Looper™" | lolcat -s 10000
-echo "     Visit : www.LearnTermux.tech" | lolcat -s 10000
+echo "     Visit : www.google.com" | lolcat -s 10000
 echo "     For more Projects Like this. " | lolcat -s 10000
 echo "| ───────────────────────────────────── |" | lolcat
 
