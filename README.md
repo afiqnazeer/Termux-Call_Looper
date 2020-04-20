@@ -3,24 +3,24 @@ This Script will allow you to call 100s Of Time from Your phone To a Phone numbe
 <br><br><br>
 
 
-Author👨‍💻: https://github.com/khansaad1275 <br>
+Author👨‍💻: https://github.com/afiqnazeer<br>
 
-Website🌎: www.Learntermux.tech <br>
+Website🌎: www.lifetime.com
 
-Instagram : https://www.instagram.com/skhan_official/ <br>
+Instagram : https://www.instagram.com/_a_a_fu_officials/ <br>
 <br>
 
 # install📲:
 
 ```pkg install git -y``` <br>
 
-```git clone https://github.com/khansaad1275/Termux-Call_Looper.git``` <br>
+```git clone https://github.com/afiqnazeer/aafulooper.git``` <br>
 
 ```cd Termux-Call_Looper``` <br>
 
 ```bash install.sh``` <br>
 
-```bash Termux-Call_Looper.sh``` <br>
+```bash aafulooper.sh``` <br>
 
 
 <h3>💀Don't copy this code without give me the credits, nerd!</h3> <br>
