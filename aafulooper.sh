@@ -3,8 +3,8 @@ echo "| ────────────────────────
 echo "|   ▄▄██████▄▄   | Call-Looper          |" | lolcat -s 100000
 echo "| ▄██▀▄█▄▄█▄▀██▄ | Version 1.0          |" | lolcat -s 100000
 echo "| ▀▀▀▄██▀▀██▄▀▀▀ |                      |" | lolcat -s 100000
-echo "|  ▄███─██─███▄  | Github:afiqnazeer.   |" | lolcat -s 100000
-echo "|  █████▄▄█████  | Insta:_a_a_f_u_officials|" | lolcat -s 100000
+echo "|  ▄███─██─███▄  | Github:aafusam.   |" | lolcat -s 100000
+echo "|  █████▄▄█████  | Insta:_b_t_w_i_a_m_a_a_f_u_|" | lolcat -s 100000
 echo "| ───────────────────────────────────── |" | lolcat
 echo "|.                                             |" | lolcat -as 50
 echo "| ───────────────────────────────────── |" | lolcat 
